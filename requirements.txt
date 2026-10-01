@@ -1,0 +1,2 @@
+# Optional live backend only
+# openai>=1.0.0

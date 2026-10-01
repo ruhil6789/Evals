@@ -1,0 +1,6 @@
+{ "item": { "ticket_text": "My monitor won't turn on!", "correct_label": "Hardware" } }
+{ "item": { "ticket_text": "I'm in vim and I can't quit!", "correct_label": "Software" } }
+{ "item": { "ticket_text": "Best restaurants in Cleveland?", "correct_label": "Other" } }
+{ "item": { "ticket_text": "Laptop battery swells and keyboard stops working", "correct_label": "Hardware" } }
+{ "item": { "ticket_text": "Excel crashes when I open the budget spreadsheet", "correct_label": "Software" } }
+{ "item": { "ticket_text": "Where should we go for team lunch?", "correct_label": "Other" } }

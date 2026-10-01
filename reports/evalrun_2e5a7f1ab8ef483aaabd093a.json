@@ -1,0 +1,40 @@
+{
+  "object": "eval.run",
+  "id": "evalrun_2e5a7f1ab8ef483aaabd093a",
+  "eval_id": "eval_52b2099ada1c4f6b92fbdc52",
+  "report_url": "/data/Python/python_basic/evals/reports/evalrun_2e5a7f1ab8ef483aaabd093a.md",
+  "status": "completed",
+  "model": "ticket-stub-v1",
+  "name": "strong-stub",
+  "created_at": 1790853466,
+  "result_counts": {
+    "total": 6,
+    "errored": 0,
+    "failed": 0,
+    "passed": 6
+  },
+  "per_model_usage": [
+    {
+      "model_name": "ticket-stub-v1",
+      "invocation_count": 6,
+      "prompt_tokens": 224,
+      "completion_tokens": 6,
+      "total_tokens": 230,
+      "cached_tokens": 0
+    }
+  ],
+  "per_testing_criteria_results": [
+    {
+      "testing_criteria": "Match output to human label-3a7f4d5653d1",
+      "passed": 6,
+      "failed": 0
+    },
+    {
+      "testing_criteria": "Output is a valid category-ab7724f348dd",
+      "passed": 6,
+      "failed": 0
+    }
+  ],
+  "error": null,
+  "metadata": {}
+}
